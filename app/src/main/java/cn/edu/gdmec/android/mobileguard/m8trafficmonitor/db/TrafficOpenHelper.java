@@ -31,19 +31,3 @@ public class TrafficOpenHelper extends SQLiteOpenHelper {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
