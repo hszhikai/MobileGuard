@@ -61,17 +61,3 @@ public class OpenratorSetActivity extends AppCompatActivity implements View.OnCl
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
